@@ -10,6 +10,7 @@ cars = ["Toyota" , "LandC" ,"LandC" , "Audi" , "Ferrari"]
 #print(cars.pop(2))
 
 
+
 #Set {}
 
 fruits = {"Apple", "Banana" , "Mango" , "Blue_Berry"}
