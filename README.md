@@ -1,4 +1,4 @@
-🐍 Python Concepts Covered
+🐍 Python Concepts Covered :
 This repository includes various Python files that demonstrate fundamental to intermediate concepts in Python programming. Each file is focused on a specific topic or concept. Below is a categorized summary of what’s covered:
 
 📌 Basics
